@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T11:12:01.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="_i7ITpdjHfW8kwKkbRmv" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T11:15:28.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="65nAAFXad0R52znkdz6E" version="15.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1008" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,8 +12,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="START" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="-1020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tltofikXsVHK8uDighsZ-1" value="&lt;h1&gt;Sales Prediction&lt;/h1&gt;&lt;p&gt;A company has determined that its annual profit is typically 23 percent of total sales. Design a program that asks the user to enter the projected amount of total sales, and then displays the profit that will be made from that amount&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="-1150" width="410" height="120" as="geometry" />
+        <mxCell id="tltofikXsVHK8uDighsZ-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Sales Prediction&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;A company has determined that its annual profit is typically 23 percent of total sales. Design a program that asks the user to enter the projected amount of total sales, and then displays the profit that will be made from that amount&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="-1150" width="800" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tltofikXsVHK8uDighsZ-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="46" y="-810" width="200" height="60" as="geometry" />
@@ -94,6 +94,13 @@
         </mxCell>
         <mxCell id="tltofikXsVHK8uDighsZ-30" value="&lt;p style=&quot;line-height: 50%&quot;&gt;&lt;/p&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Pseudocode&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;//Declare the necessary variables&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Declare Integer totalSales&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34;&quot;&gt;&lt;b&gt;Declare Real SALES=0.23&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b style=&quot;line-height: 110%&quot;&gt;Declare Integer salesProfit&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b style=&quot;line-height: 110%&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;//Get the Total Sales&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Display &quot;Enter Total Sales: &quot;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Input totalSales&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;//Calculate Profit&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Set salesProfit=totalSales*SALES&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;//Display the total annual sales profit&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;&quot;The total annual sales profit is:&amp;nbsp; &quot;,profit&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="-1046" width="300" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="tltofikXsVHK8uDighsZ-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="-400" as="sourcePoint" />
+            <mxPoint y="-400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
