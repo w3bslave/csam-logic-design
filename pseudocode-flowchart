@@ -1,0 +1,29 @@
+Draw the flow Chart and Pseducode for the Following
+
+Suppose a retail business is planning to have a storewide sale where the prices of all items will be 20 percent off. We have been asked to write a program to calculate the sale price of an item after the discount is subtracted
+
+
+A company has determined that its annual profit is typically 23 percent of total sales. Design a program that asks the user to enter the projected amount of total sales, and then displays the profit that will be made from that amount.
+Hint: Use the value 0.23 to represent 23 percent
+
+
+One acre of land is equivalent to 43,560 square feet. Design a program that asks the user to enter the total square feet in a tract of land and calculates the number of acres in the tract.
+Hint: Divide the amount entered by 43,560 to get the number of acres.
+
+A car’s miles-per-gallon (MPG) can be calculated with the following formula:
+MPG = Miles driven / Gallons of gas used
+Design a program that asks the user for the number of miles driven and the gallons of gas used. It should calculate the car’s miles-per-gallon and display the result on the screen
+
+
+Distance Traveled
+Assuming there are no accidents or delays, the distance that a car travels down the interstate can be calculated with the following formula:
+Distance = Speed *Time
+
+Design a program that will ask the user to enter the amount of a purchase. The program should then compute the state and county sales tax. Assume the state sales tax is 4 percent and the county sales tax is 2 percent. The program should display the amount of the purchase, the state sales tax, the county sales tax, the total sales tax, and the total of the sale (which is the sum of the amount of purchase plus the total sales tax).
+Hint: Use the value 0.02 to represent 2 percent, and 0.04 to represent 4 percent.
+
+
+Design a program that converts Celsius temperatures to Fahrenheit temperatures.
+The formula is as follows:
+The program should ask the user to enter a temperature in Celsius, and then
+display the temperature converted to Fahrenheit
